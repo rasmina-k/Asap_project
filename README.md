@@ -1,2 +1,1 @@
-##  
-Get Fast
+##  Get Fast
